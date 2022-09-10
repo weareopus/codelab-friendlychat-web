@@ -7,7 +7,7 @@
  * 4. Copy the config object snippet, then add it here.
  */
 const config = {
-  /* TODO: ADD YOUR FIREBASE CONFIGURATION OBJECT HERE */
+  /*npm install firebase/
 };
 
 export function getFirebaseConfig() {
